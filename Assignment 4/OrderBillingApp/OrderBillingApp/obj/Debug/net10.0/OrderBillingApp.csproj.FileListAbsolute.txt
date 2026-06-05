@@ -1,0 +1,15 @@
+C:\Users\Harryet\source\repos\OrderBillingApp\OrderBillingApp\bin\Debug\net10.0\OrderBillingApp.exe
+C:\Users\Harryet\source\repos\OrderBillingApp\OrderBillingApp\bin\Debug\net10.0\OrderBillingApp.deps.json
+C:\Users\Harryet\source\repos\OrderBillingApp\OrderBillingApp\bin\Debug\net10.0\OrderBillingApp.runtimeconfig.json
+C:\Users\Harryet\source\repos\OrderBillingApp\OrderBillingApp\bin\Debug\net10.0\OrderBillingApp.dll
+C:\Users\Harryet\source\repos\OrderBillingApp\OrderBillingApp\bin\Debug\net10.0\OrderBillingApp.pdb
+C:\Users\Harryet\source\repos\OrderBillingApp\OrderBillingApp\obj\Debug\net10.0\OrderBillingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harryet\source\repos\OrderBillingApp\OrderBillingApp\obj\Debug\net10.0\OrderBillingApp.AssemblyInfoInputs.cache
+C:\Users\Harryet\source\repos\OrderBillingApp\OrderBillingApp\obj\Debug\net10.0\OrderBillingApp.AssemblyInfo.cs
+C:\Users\Harryet\source\repos\OrderBillingApp\OrderBillingApp\obj\Debug\net10.0\OrderBillingApp.csproj.CoreCompileInputs.cache
+C:\Users\Harryet\source\repos\OrderBillingApp\OrderBillingApp\obj\Debug\net10.0\OrderBillingApp.sourcelink.json
+C:\Users\Harryet\source\repos\OrderBillingApp\OrderBillingApp\obj\Debug\net10.0\OrderBillingApp.dll
+C:\Users\Harryet\source\repos\OrderBillingApp\OrderBillingApp\obj\Debug\net10.0\refint\OrderBillingApp.dll
+C:\Users\Harryet\source\repos\OrderBillingApp\OrderBillingApp\obj\Debug\net10.0\OrderBillingApp.pdb
+C:\Users\Harryet\source\repos\OrderBillingApp\OrderBillingApp\obj\Debug\net10.0\OrderBillingApp.genruntimeconfig.cache
+C:\Users\Harryet\source\repos\OrderBillingApp\OrderBillingApp\obj\Debug\net10.0\ref\OrderBillingApp.dll
