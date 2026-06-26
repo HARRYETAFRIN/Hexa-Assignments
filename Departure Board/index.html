@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Departures Board</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+
+    
+    <div class="header">
+      <div>
+        <p class="sub-title">
+          LIVE • SKY HARBOR INTERNATIONAL TERMINAL
+        </p>
+        <h1>DEPARTURES</h1>
+      </div>
+
+      <div class="clock-section">
+        <h2 id="clock">00:00:00</h2>
+        <p>LOCAL TIME</p>
+      </div>
+    </div>
+
+    <!-- Column Headings -->
+    <div class="headings">
+      <span>TIME</span>
+      <span>FLIGHT</span>
+      <span>DESTINATION</span>
+      <span>GATE</span>
+      <span>STATUS</span>
+    </div>
+
+    
+    <div id="board"></div>
+
+   
+    <div class="buttons">
+      <button id="addBtn">+ Add Departure</button>
+      <button id="resetBtn">Reset Board</button>
+    </div>
+
+  
+    <div class="summary">
+      <span id="totalFlights">0</span> departures •
+      <span id="boardingCount">0</span> boarding •
+      <span id="delayedCount">0</span> delayed •
+      <span id="departedCount">0</span> departed
+    </div>
+
+   
+    <div class="legend">
+      <div>
+        <span class="dot ontime"></span>
+        ON TIME
+      </div>
+
+      <div>
+        <span class="dot boarding"></span>
+        BOARDING
+      </div>
+
+      <div>
+        <span class="dot delayed"></span>
+        DELAYED
+      </div>
+
+      <div>
+        <span class="dot departed"></span>
+        DEPARTED
+      </div>
+    </div>
+
+  </div>
+
+  <script src="script.js"></script>
+
+</body>
+</html>
